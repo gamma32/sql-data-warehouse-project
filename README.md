@@ -11,22 +11,22 @@ This project demostrates a comprehensive data warehousing and analytics solution
 	- Scope: Focus on the latest datasets only; historization of data is not required.
 	- Documentation:Provide clean documentation of the data model to suppot both business stockholders and analytics teams.
 ---
-##			BI: Analytic & Reporting (Data Analysis)
-
+###	BI: Analytic & Reporting (Data Analysis)
 ## Objective
 
-			Develope SQL-based analytics to deliver detailed insights into:
-
-			Customer behavior
-			Product performance
-			Sales trends
-
-			These insights empower stakeholders with key business metrics, enabling strategic decision-making
+	Develope SQL-based analytics to deliver detailed insights into:
+	
+		Customer behavior
+		Product performance
+		Sales trends
+	
+	These insights empower stakeholders with key business metrics, enabling strategic decision-making
 
 ---
 ## License
 
-This project is licensed under MIT License. It is free to use, modify, and share it with proper attribution.
+	This project is licensed under MIT License. It is free to use, modify, and share it with proper attribution.
 
-## About Ne
+## About Me
+
 Hello there, I am *Marco V Tapia*, IT professional and SQL server passionate. Enbrazing new tech's in this new era or constant change and evolution.
