@@ -100,6 +100,10 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+## References and Recognition
+
+	This project was created following SQL course from Zero to Hero published by *Data with Baraa*
+
 
 ---
 ## License
