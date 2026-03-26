@@ -2,6 +2,7 @@
 
 Welcome to my **Data Warehouse and Analytics Project** repository!
 This project demostrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project it highlights industry best practices in data engineering and analytics
+
 ---
 ## 🏗️ Data Architecture
 
@@ -100,10 +101,15 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-## References and Recognition
+## Credits and recognition
 
-	This project was created following SQL course from Zero to Hero published by *Data with Baraa*
+	This project was created following SQL course from Zero to Hero published by *Data with Baraa*. 
+	Following this curse of 30 hours was the best time spent to improve, polish and enhance my SQL knowledge. 
+	I am really thankful that people like Baraa make available such a valuable media content.
 
+All Course and its materials are completely free, and available, please visit Baraa's site for more great study material.
+
+- ✅ **SQL Data Warehouse Project:** [Course Link](https://youtu.be/SSKVgrwhzus) |
 
 ---
 ## License
